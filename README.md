@@ -31,8 +31,6 @@ Public version without any data.
 │   .gitignore
 │   main.py                            — главный исполняемый файл расчетов
 │   README.md                          — непосредственно readme
-├───calc_output                        — текущие результаты расчета, закинут в gitignore
-│   └───result
-├───cells                              — основные классы, используемые в проекте
-│   ├───angle.py                       - класс углов
-│   ├───cell.py                        - класс клеток
+└───cells                              — основные классы, используемые в проекте
+    ├───angle.py                       - класс углов
+    └───cell.py                        - класс клеток
